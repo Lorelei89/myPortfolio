@@ -2,19 +2,21 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "2.11.1",
-    "versionPublish": "2.11.1",
+    "versionPublish": "3.9.2",
     "name": "My Site",
     "theme": {
       "name": "default",
-      "title": "Mobirise"
+      "title": "Mobirise",
+      "styling": {}
     },
-    "path": "file:///Users/sabina/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2016-06-10_213008",
-    "publishType": "local",
+    "path": "@PROJECT_PATH@",
+    "publishType": "github",
     "publishGDriveLocation": "",
     "publishGDrivePath": "",
     "publishPath": "file:///Users/sabina/Desktop/MyPortofolio/mywebsitebackup",
     "favicon": "",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "uniqCompNum": 0
   },
   "pages": {
     "index.html": {
